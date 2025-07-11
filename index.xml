@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lets get started</title>
+      <link>//localhost:1313/posts/2025-07-10/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/2025-07-10/</guid>
+      <description>&lt;p&gt;OK then this blog is a hands-on lab for exploring software frameworks.&lt;/p&gt;&#xA;&lt;p&gt;This is an open workbench. The journey is guided by curiosity, and your suggestions will help steer the course.&lt;/p&gt;&#xA;&lt;p&gt;Expect quick test projects, first impressions, and an honest look at what makes each one tick.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
