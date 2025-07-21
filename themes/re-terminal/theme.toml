@@ -21,12 +21,3 @@ tags = [
 ]
 features = ["blog", "shortcode", "syntax highlighting"]
 min_version = 0.128
-
-[author]
-name = "Mirus"
-homepage = "https://nebrowser.com"
-
-[original]
-name = "panr"
-homepage = "https://radoslawkoziel.pl"
-repo = "https://github.com/panr/hugo-theme-terminal"
