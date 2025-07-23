@@ -41,5 +41,38 @@
 </content>
     </item>
     
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;welcome-to-the-nibble-blog&#34;&gt;Welcome to the Nibble Blog&lt;/h2&gt;
+&lt;p&gt;Where curiosity meets code — &lt;strong&gt;4 bits at a time.&lt;/strong&gt;
+This isn’t just a blog—
+it’s a hands-on workshop where we dive deep into building, testing programs and algorithms &lt;strong&gt;together&lt;/strong&gt;.
+No fluff, no over-the-top theory.
+Just real code, real logic, and real fun.
+Got an idea or challenge? Drop it in—&lt;strong&gt;your input shapes the journey.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s build the future &lt;strong&gt;one nibble at a time&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;By&lt;/strong&gt;: Kunal Prasad (aka &lt;strong&gt;MOB&lt;/strong&gt;)&lt;/p&gt;</description>
+      <content>&lt;hr&gt;
+&lt;h2 id=&#34;welcome-to-the-nibble-blog&#34;&gt;Welcome to the Nibble Blog&lt;/h2&gt;
+&lt;p&gt;Where curiosity meets code — &lt;strong&gt;4 bits at a time.&lt;/strong&gt;
+This isn’t just a blog—
+it’s a hands-on workshop where we dive deep into building, testing programs and algorithms &lt;strong&gt;together&lt;/strong&gt;.
+No fluff, no over-the-top theory.
+Just real code, real logic, and real fun.
+Got an idea or challenge? Drop it in—&lt;strong&gt;your input shapes the journey.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s build the future &lt;strong&gt;one nibble at a time&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;By&lt;/strong&gt;: Kunal Prasad (aka &lt;strong&gt;MOB&lt;/strong&gt;)&lt;/p&gt;
+&lt;h3 id=&#34;contact--&#34;&gt;Contact -&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Kunal-Prasad657&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/nibble_nuggets/&#34;&gt;Instagram&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;E-mail- &lt;a href=&#34;mailto:kunalpr@nibble-blog.com&#34;&gt;kunalpr@nibble-blog.com&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
   </channel>
 </rss>
