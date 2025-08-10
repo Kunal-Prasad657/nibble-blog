@@ -3,7 +3,7 @@ title: "[Nibble-dot] A harmonic configuration  for your Linux system"
 date: 2025-07-21
 tags:
 ---
-![Image Description](/images/2025-07-21-203829_hyprshot.png)
+ ![Image Description](/images/2025-07-21-203829_hyprshot.png)
 ![Image Description](/images/2025-07-20-190200_hyprshot.png)
    
    Your gateway to a stunning Hyprland setup like this!
