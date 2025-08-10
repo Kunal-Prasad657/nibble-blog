@@ -2,34 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>//localhost:1313/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Give Your Old Tablet a New Life: Your Secondary Terminal with SSH</title>
-      <link>//localhost:1313/posts/untitled-1/</link>
+      <link>/posts/untitled-1/</link>
       <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/untitled-1/</guid>
+      <guid>/posts/untitled-1/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../images/IMG_5233.jpg&#34; alt=&#34;Image Description&#34;&gt;
 Breathe new life into an old tablet or spare laptop by transforming it into a dedicated secondary terminal for your main computer.&lt;/p&gt;
-&lt;p&gt;Using the power of SSH, you can create a secure command-line connection, giving you a separate screen for monitoring logs, running build scripts, or managing system resources without cluttering your primary workspace.&lt;/p&gt;
+&lt;p&gt;Using the power of &lt;code&gt;ssh&lt;/code&gt;, you can create a secure command-line connection, giving you a separate screen for monitoring logs, running build scripts, or managing system resources without cluttering your primary workspace.&lt;/p&gt;
 &lt;p&gt;Supercharge this setup with a terminal multiplexer like &lt;code&gt;tmux&lt;/code&gt;, which enables persistent sessions. This allows you to start a task on your main laptop, then walk away and use your tablet to attach to the very same session, monitoring or interacting with the process seamlessly. It&amp;rsquo;s a simple yet powerful way to boost productivity and achieve true task mobility across your devices.&lt;/p&gt;</description>
       <content>&lt;p&gt;&lt;img src=&#34;../images/IMG_5233.jpg&#34; alt=&#34;Image Description&#34;&gt;
 Breathe new life into an old tablet or spare laptop by transforming it into a dedicated secondary terminal for your main computer.&lt;/p&gt;
-&lt;p&gt;Using the power of SSH, you can create a secure command-line connection, giving you a separate screen for monitoring logs, running build scripts, or managing system resources without cluttering your primary workspace.&lt;/p&gt;
+&lt;p&gt;Using the power of &lt;code&gt;ssh&lt;/code&gt;, you can create a secure command-line connection, giving you a separate screen for monitoring logs, running build scripts, or managing system resources without cluttering your primary workspace.&lt;/p&gt;
 &lt;p&gt;Supercharge this setup with a terminal multiplexer like &lt;code&gt;tmux&lt;/code&gt;, which enables persistent sessions. This allows you to start a task on your main laptop, then walk away and use your tablet to attach to the very same session, monitoring or interacting with the process seamlessly. It&amp;rsquo;s a simple yet powerful way to boost productivity and achieve true task mobility across your devices.&lt;/p&gt;
+&lt;p&gt;Use this Repo for further details - &lt;a href=&#34;https://github.com/Kunal-Prasad657/droidterminal&#34;&gt;https://github.com/Kunal-Prasad657/droidterminal&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>[Nibble-dot] A harmonic configuration  for your Linux system</title>
-      <link>//localhost:1313/posts/nibble-dots/</link>
+      <link>/posts/nibble-dots/</link>
       <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/nibble-dots/</guid>
+      <guid>/posts/nibble-dots/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../images/2025-07-21-203829_hyprshot.png&#34; alt=&#34;Image Description&#34;&gt;
 &lt;img src=&#34;../images/2025-07-20-190200_hyprshot.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Your gateway to a stunning Hyprland setup like this!&lt;/p&gt;
@@ -45,10 +46,10 @@ Breathe new life into an old tablet or spare laptop by transforming it into a de
     
     <item>
       <title>Lets get started</title>
-      <link>//localhost:1313/posts/first/</link>
+      <link>/posts/first/</link>
       <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/first/</guid>
+      <guid>/posts/first/</guid>
       <description>&lt;p&gt;OK then this blog is a hands-on lab for exploring software frameworks.&lt;/p&gt;
 &lt;p&gt;This is an open workbench. The journey is guided by curiosity, and your suggestions will help steer the course.&lt;/p&gt;
 &lt;p&gt;Expect quick test projects, first impressions, and an honest look at what makes each one tick.&lt;/p&gt;</description>
